@@ -37,7 +37,7 @@ En < tutorials/python_biologist/tutorial_ii > encontrarás los comandos a seguir
 
 < Concatenación >
 
--Se pueden concatenar cadenas con el símbolo < + >
+- Se pueden concatenar cadenas con el símbolo < + >
 - 
 
 
