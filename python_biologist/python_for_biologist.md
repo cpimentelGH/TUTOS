@@ -29,7 +29,7 @@ En el directorio <tutorials/python_biologist/> encontraras los archivos .py corr
 
 # 02. Almacenamiento de secuencias en variables #
 
-En <tutorials/python_biologist/tutorial_ii> encontrarás los comandos a seguir para esta parte.
+En <tutorials/python_biologist/text_printing_and_manipulation.py> encontrarás los comandos a seguir para esta parte.
 
 -Guardar una secuencia en una variable nos permite imprimirla sin necesidad de escribir toda la secuencia de nuevo.
 
@@ -38,6 +38,26 @@ En <tutorials/python_biologist/tutorial_ii> encontrarás los comandos a seguir p
 <Concatenación>
 
 -Se pueden concatenar cadenas con el símbolo <+>
-- 
+
+<Saber la longitud de una cadena>
+
+-Funciona con el código <len(variable_de_la_que_queremos_saber_su_longitud)>
+
+-Esto se refiere a saber la cantidad de caracteres que contiene una cadena. i.e saber cuantos nucleótidos, ATCG, hay en una cadena
+
+-La respuesta que arroja esta función es un .Número. 
+
+-Python reconoce de forma diferente a los números de las secuencias de texto.
+
+-En <tutorials/python_biologist/text_printing_and_manipulation.py> en la parte de "Encontrar la longitud de una secuencia" encontrarás un ejercicio que te ayude a comprender esta parte del texto.
+
+-<str( )>  es una función que toma un argumento de tipo numérico y lo regresa como si fuera de tipo secuencia (i.e letras) que representa a ese número.
+
+-<int( )> es una función inversa. Nos permite convertir un argumento de tipo string a uno numérico. 
+
+<Reemplazamiento>
+
+
+
 
 
